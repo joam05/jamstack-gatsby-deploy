@@ -8,7 +8,7 @@ const Home = () => (
     <h1>
       Next.js on the <a href="https://jamstack.org">Jamstack</a>
     </h1>
-
+    <h2>Sample check for incremental commits</h2>
     <h3>
       Hooray 🎉 - you've built this with{' '}
       <a href="https://nextjs.org">Next.js</a>!
